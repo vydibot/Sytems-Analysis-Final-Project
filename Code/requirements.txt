@@ -1,0 +1,5 @@
+pandas>=1.5
+spacy>=3.0
+
+# Note: You must also install the English model for spaCy
+# Run: python -m spacy download en_core_web_sm
